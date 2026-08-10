@@ -1,8 +1,5 @@
-# Meeting Muse
+Hello_Ai (AI Meeting Assistant)
 
-Lovable Prompt — Hello_Ai (AI Meeting Assistant)
-
-Copy-paste everything below into Lovable as your project prompt.
 
 Build a full-stack AI-powered meeting assistant platform called Hello_Ai.
 
